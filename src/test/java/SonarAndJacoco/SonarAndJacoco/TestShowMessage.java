@@ -33,12 +33,12 @@ import org.junit.Test;
 	    }  
 	    
 
-		@Test 
+	/*	@Test 
 	    public void testnewmessage() {  
 	        System.out.println("We are inside of the NewMessage() method");  
 	        String msg1 = "who is " + "prathamesh";  
 	        assertequlas(msg1,obj.newmessage());
-	        }
+	        } */
 
 		private void assertequlas(String msg1, String newmessage) {
 			// TODO Auto-generated method stub
